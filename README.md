@@ -1,2 +1,2 @@
 # Project-Euler-Solutions
-|| Solutions of Coding Questions of Project Euler ||
+                                   || Solutions of Coding Questions of Project Euler ||
